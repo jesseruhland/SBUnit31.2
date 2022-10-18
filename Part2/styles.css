@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(56, 120, 56);
+}
+
+button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: rgb(101, 102, 103);
+  color: white;
+  font-size: larger;
+  border-radius: 5px;
+  border-color: rgb(89, 90, 91);
+}
+
+#background {
+  text-align: center;
+}
+
+img {
+  position: absolute;
+  top: 20%;
+  left: 45%;
+  /* -ms-transform: translate(-50%, -50%); */
+  /* transform: translate(-50%, -50%); */
+}
